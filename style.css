@@ -1,0 +1,80 @@
+*{
+    background-color: rgb(160, 213, 223);
+    border-radius: 10px;
+}
+
+
+    
+
+#in {
+    width: 100%;
+    width: 450px;
+}
+div{
+    word-wrap: break-word;
+    width: 350px;
+    background-color: transparent;
+}
+p{
+    background-color: rgb(60, 143, 143);
+    border: 0.1px solid rgb(93, 218, 168);
+    width: 350px;
+    padding: 5px;
+    margin: 5px;
+}
+textarea{
+    border: 2px solid rgb(71, 71, 173);
+    border-radius: 5px;
+    width: 100%;
+    resize: none;
+    background-color: white;
+    margin: 5px;
+}
+
+::-webkit-scrollbar{
+    display: block;
+}
+
+button{
+    background-color: rgb(1, 41, 43);
+    color: rgb(245, 221, 89);
+    border-radius: 7px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 3px;
+}
+
+#mainComment{
+    background-color: rgb(114, 202, 180);
+    border: 1px solid rgb(176, 190, 42);
+    border-radius: 15px;
+    word-wrap: break-word;  
+    background-color:rgb(7, 105, 105);
+    width: auto;
+    padding: 1rem;
+    margin: 0.2rem;
+    font-size: large;
+    width: 350px;
+    
+    
+}
+#childComment{
+    border: 0.5px solid gold;
+    background-color: transparent;
+    margin-left: 50px;
+    margin-top: 5px;
+    word-wrap: break-word;
+    width: auto;
+    border-radius: 10px;
+}
+
+#title{
+    width: 1282px;
+    background-color: darkslategrey;
+    border: 2px solid darkslategray;
+}
+h1{
+    background-color: darkslategrey;
+    margin: 50px;
+}
