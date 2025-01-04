@@ -91,7 +91,6 @@ function addReply(e) {
     output.appendChild(div);
 
     //Div Styling
-
     div.style.borderLeft = "gold solid 1px";
     div.style.marginLeft = "20px";
     div.style.borderRadius = "10px";
